@@ -1,0 +1,1009 @@
+{
+  "bee-cherry-pick": {
+    "title": "Bee cherry-picks commits",
+    "category": "bee",
+    "tags": [
+      "bee",
+      "cherry-pick",
+      "git",
+      "commits",
+      "flowers",
+      "pollen",
+      "right-to-left",
+      "backport"
+    ],
+    "url": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/bee/bee-cherry-pick-neutral.gif",
+    "dark": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/bee/bee-cherry-pick-dark.gif",
+    "light": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/bee/bee-cherry-pick-light.gif",
+    "markdown": "<picture><source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/bee/bee-cherry-pick-dark.gif\"><source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/bee/bee-cherry-pick-light.gif\"><img alt=\"Bee cherry-picks commits\" src=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/bee/bee-cherry-pick-neutral.gif\"></picture>"
+  },
+  "bee-honey-build": {
+    "title": "Bee builds honey",
+    "category": "bee",
+    "tags": [
+      "bee",
+      "build",
+      "bundle",
+      "npm",
+      "honey",
+      "jar",
+      "top-to-bottom",
+      "done"
+    ],
+    "url": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/bee/bee-honey-build-neutral.gif",
+    "dark": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/bee/bee-honey-build-dark.gif",
+    "light": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/bee/bee-honey-build-light.gif",
+    "markdown": "<picture><source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/bee/bee-honey-build-dark.gif\"><source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/bee/bee-honey-build-light.gif\"><img alt=\"Bee builds honey\" src=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/bee/bee-honey-build-neutral.gif\"></picture>"
+  },
+  "bee-honeycomb-coverage": {
+    "title": "Bee fills the test matrix",
+    "category": "bee",
+    "tags": [
+      "bee",
+      "coverage",
+      "tests",
+      "matrix",
+      "honeycomb",
+      "100%",
+      "left-to-right",
+      "zigzag"
+    ],
+    "url": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/bee/bee-honeycomb-coverage-neutral.gif",
+    "dark": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/bee/bee-honeycomb-coverage-dark.gif",
+    "light": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/bee/bee-honeycomb-coverage-light.gif",
+    "markdown": "<picture><source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/bee/bee-honeycomb-coverage-dark.gif\"><source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/bee/bee-honeycomb-coverage-light.gif\"><img alt=\"Bee fills the test matrix\" src=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/bee/bee-honeycomb-coverage-neutral.gif\"></picture>"
+  },
+  "bee-swarm-review": {
+    "title": "Bee swarm approves",
+    "category": "bee",
+    "tags": [
+      "bee",
+      "review",
+      "approved",
+      "swarm",
+      "team",
+      "reviewers",
+      "converging",
+      "4/4"
+    ],
+    "url": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/bee/bee-swarm-review-neutral.gif",
+    "dark": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/bee/bee-swarm-review-dark.gif",
+    "light": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/bee/bee-swarm-review-light.gif",
+    "markdown": "<picture><source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/bee/bee-swarm-review-dark.gif\"><source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/bee/bee-swarm-review-light.gif\"><img alt=\"Bee swarm approves\" src=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/bee/bee-swarm-review-neutral.gif\"></picture>"
+  },
+  "bee-waggle-dance": {
+    "title": "Bee dances the bug location",
+    "category": "bee",
+    "tags": [
+      "bee",
+      "bug",
+      "dance",
+      "team",
+      "swarm",
+      "found it",
+      "diagonal",
+      "figure eight"
+    ],
+    "url": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/bee/bee-waggle-dance-neutral.gif",
+    "dark": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/bee/bee-waggle-dance-dark.gif",
+    "light": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/bee/bee-waggle-dance-light.gif",
+    "markdown": "<picture><source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/bee/bee-waggle-dance-dark.gif\"><source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/bee/bee-waggle-dance-light.gif\"><img alt=\"Bee dances the bug location\" src=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/bee/bee-waggle-dance-neutral.gif\"></picture>"
+  },
+  "cat-bug-hunt": {
+    "title": "Cat squashes a bug",
+    "category": "cat",
+    "tags": [
+      "cat",
+      "bug",
+      "chase",
+      "fixed",
+      "squash",
+      "diagonal",
+      "night",
+      "hill"
+    ],
+    "url": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/cat/cat-bug-hunt-neutral.gif",
+    "dark": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/cat/cat-bug-hunt-dark.gif",
+    "light": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/cat/cat-bug-hunt-light.gif",
+    "markdown": "<picture><source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/cat/cat-bug-hunt-dark.gif\"><source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/cat/cat-bug-hunt-light.gif\"><img alt=\"Cat squashes a bug\" src=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/cat/cat-bug-hunt-neutral.gif\"></picture>"
+  },
+  "cat-lgtm": {
+    "title": "Cat stamps LGTM",
+    "category": "cat",
+    "tags": [
+      "cat",
+      "lgtm",
+      "approved",
+      "stamp",
+      "review",
+      "right-to-left",
+      "looks good"
+    ],
+    "url": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/cat/cat-lgtm-neutral.gif",
+    "dark": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/cat/cat-lgtm-dark.gif",
+    "light": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/cat/cat-lgtm-light.gif",
+    "markdown": "<picture><source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/cat/cat-lgtm-dark.gif\"><source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/cat/cat-lgtm-light.gif\"><img alt=\"Cat stamps LGTM\" src=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/cat/cat-lgtm-neutral.gif\"></picture>"
+  },
+  "cat-merged": {
+    "title": "Branch merges into main",
+    "category": "cat",
+    "tags": [
+      "cat",
+      "merge",
+      "merged",
+      "branch",
+      "git",
+      "confetti",
+      "converging",
+      "celebrate"
+    ],
+    "url": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/cat/cat-merged-neutral.gif",
+    "dark": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/cat/cat-merged-dark.gif",
+    "light": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/cat/cat-merged-light.gif",
+    "markdown": "<picture><source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/cat/cat-merged-dark.gif\"><source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/cat/cat-merged-light.gif\"><img alt=\"Branch merges into main\" src=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/cat/cat-merged-neutral.gif\"></picture>"
+  },
+  "cat-review-in-progress": {
+    "title": "Cat reviewing code",
+    "category": "cat",
+    "tags": [
+      "cat",
+      "review",
+      "reading",
+      "code",
+      "magnifier",
+      "left-to-right",
+      "in-progress",
+      "approved"
+    ],
+    "url": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/cat/cat-review-in-progress-neutral.gif",
+    "dark": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/cat/cat-review-in-progress-dark.gif",
+    "light": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/cat/cat-review-in-progress-light.gif",
+    "markdown": "<picture><source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/cat/cat-review-in-progress-dark.gif\"><source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/cat/cat-review-in-progress-light.gif\"><img alt=\"Cat reviewing code\" src=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/cat/cat-review-in-progress-neutral.gif\"></picture>"
+  },
+  "cat-ship-it": {
+    "title": "Cat launches a PR rocket",
+    "category": "cat",
+    "tags": [
+      "cat",
+      "rocket",
+      "ship",
+      "deploy",
+      "launch",
+      "shipped",
+      "bottom-to-top",
+      "countdown"
+    ],
+    "url": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/cat/cat-ship-it-neutral.gif",
+    "dark": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/cat/cat-ship-it-dark.gif",
+    "light": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/cat/cat-ship-it-light.gif",
+    "markdown": "<picture><source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/cat/cat-ship-it-dark.gif\"><source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/cat/cat-ship-it-light.gif\"><img alt=\"Cat launches a PR rocket\" src=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/cat/cat-ship-it-neutral.gif\"></picture>"
+  },
+  "cat-tests-passing": {
+    "title": "Checks fall into a basket",
+    "category": "cat",
+    "tags": [
+      "cat",
+      "tests",
+      "passing",
+      "checks",
+      "ci",
+      "green",
+      "top-to-bottom",
+      "celebrate"
+    ],
+    "url": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/cat/cat-tests-passing-neutral.gif",
+    "dark": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/cat/cat-tests-passing-dark.gif",
+    "light": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/cat/cat-tests-passing-light.gif",
+    "markdown": "<picture><source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/cat/cat-tests-passing-dark.gif\"><source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/cat/cat-tests-passing-light.gif\"><img alt=\"Checks fall into a basket\" src=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/cat/cat-tests-passing-neutral.gif\"></picture>"
+  },
+  "cat-waiting-for-ci": {
+    "title": "Cat naps while CI runs",
+    "category": "cat",
+    "tags": [
+      "cat",
+      "waiting",
+      "ci",
+      "queued",
+      "sleep",
+      "zzz",
+      "night",
+      "loop"
+    ],
+    "url": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/cat/cat-waiting-for-ci-neutral.gif",
+    "dark": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/cat/cat-waiting-for-ci-dark.gif",
+    "light": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/cat/cat-waiting-for-ci-light.gif",
+    "markdown": "<picture><source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/cat/cat-waiting-for-ci-dark.gif\"><source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/cat/cat-waiting-for-ci-light.gif\"><img alt=\"Cat naps while CI runs\" src=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/cat/cat-waiting-for-ci-neutral.gif\"></picture>"
+  },
+  "crab-dead-code-snip": {
+    "title": "Crab snips dead code",
+    "category": "crab",
+    "tags": [
+      "crab",
+      "dead code",
+      "cleanup",
+      "delete",
+      "snip",
+      "beach",
+      "left-to-right",
+      "refactor"
+    ],
+    "url": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/crab/crab-dead-code-snip-neutral.gif",
+    "dark": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/crab/crab-dead-code-snip-dark.gif",
+    "light": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/crab/crab-dead-code-snip-light.gif",
+    "markdown": "<picture><source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/crab/crab-dead-code-snip-dark.gif\"><source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/crab/crab-dead-code-snip-light.gif\"><img alt=\"Crab snips dead code\" src=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/crab/crab-dead-code-snip-neutral.gif\"></picture>"
+  },
+  "crab-molt-upgrade": {
+    "title": "Crab molts to v2",
+    "category": "crab",
+    "tags": [
+      "crab",
+      "upgrade",
+      "migration",
+      "version bump",
+      "major",
+      "molt",
+      "bottom-to-top",
+      "tide pool"
+    ],
+    "url": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/crab/crab-molt-upgrade-neutral.gif",
+    "dark": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/crab/crab-molt-upgrade-dark.gif",
+    "light": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/crab/crab-molt-upgrade-light.gif",
+    "markdown": "<picture><source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/crab/crab-molt-upgrade-dark.gif\"><source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/crab/crab-molt-upgrade-light.gif\"><img alt=\"Crab molts to v2\" src=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/crab/crab-molt-upgrade-neutral.gif\"></picture>"
+  },
+  "crab-rust-climb": {
+    "title": "Rust crab climbs cargo",
+    "category": "crab",
+    "tags": [
+      "crab",
+      "rust",
+      "cargo",
+      "build",
+      "clippy",
+      "zero warnings",
+      "diagonal",
+      "climb"
+    ],
+    "url": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/crab/crab-rust-climb-neutral.gif",
+    "dark": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/crab/crab-rust-climb-dark.gif",
+    "light": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/crab/crab-rust-climb-light.gif",
+    "markdown": "<picture><source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/crab/crab-rust-climb-dark.gif\"><source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/crab/crab-rust-climb-light.gif\"><img alt=\"Rust crab climbs cargo\" src=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/crab/crab-rust-climb-neutral.gif\"></picture>"
+  },
+  "crab-split-big-pr": {
+    "title": "Crab splits a big PR",
+    "category": "crab",
+    "tags": [
+      "crab",
+      "big pr",
+      "split",
+      "smaller prs",
+      "snip",
+      "beach",
+      "top-to-bottom",
+      "refactor"
+    ],
+    "url": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/crab/crab-split-big-pr-neutral.gif",
+    "dark": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/crab/crab-split-big-pr-dark.gif",
+    "light": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/crab/crab-split-big-pr-light.gif",
+    "markdown": "<picture><source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/crab/crab-split-big-pr-dark.gif\"><source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/crab/crab-split-big-pr-light.gif\"><img alt=\"Crab splits a big PR\" src=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/crab/crab-split-big-pr-neutral.gif\"></picture>"
+  },
+  "crab-tide-review": {
+    "title": "Crab resolves review comments",
+    "category": "crab",
+    "tags": [
+      "crab",
+      "review",
+      "comments",
+      "resolved",
+      "waves",
+      "beach",
+      "right-to-left",
+      "feedback"
+    ],
+    "url": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/crab/crab-tide-review-neutral.gif",
+    "dark": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/crab/crab-tide-review-dark.gif",
+    "light": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/crab/crab-tide-review-light.gif",
+    "markdown": "<picture><source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/crab/crab-tide-review-dark.gif\"><source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/crab/crab-tide-review-light.gif\"><img alt=\"Crab resolves review comments\" src=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/crab/crab-tide-review-neutral.gif\"></picture>"
+  },
+  "fox-ci-nap": {
+    "title": "Fox naps until CI passes",
+    "category": "fox",
+    "tags": [
+      "fox",
+      "ci",
+      "waiting",
+      "checks",
+      "sleep",
+      "night",
+      "bottom-to-top",
+      "passing"
+    ],
+    "url": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/fox/fox-ci-nap-neutral.gif",
+    "dark": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/fox/fox-ci-nap-dark.gif",
+    "light": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/fox/fox-ci-nap-light.gif",
+    "markdown": "<picture><source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/fox/fox-ci-nap-dark.gif\"><source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/fox/fox-ci-nap-light.gif\"><img alt=\"Fox naps until CI passes\" src=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/fox/fox-ci-nap-neutral.gif\"></picture>"
+  },
+  "fox-dig-stack-trace": {
+    "title": "Fox digs to the root cause",
+    "category": "fox",
+    "tags": [
+      "fox",
+      "debug",
+      "stack trace",
+      "root cause",
+      "dig",
+      "error",
+      "top-to-bottom",
+      "found it"
+    ],
+    "url": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/fox/fox-dig-stack-trace-neutral.gif",
+    "dark": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/fox/fox-dig-stack-trace-dark.gif",
+    "light": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/fox/fox-dig-stack-trace-light.gif",
+    "markdown": "<picture><source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/fox/fox-dig-stack-trace-dark.gif\"><source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/fox/fox-dig-stack-trace-light.gif\"><img alt=\"Fox digs to the root cause\" src=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/fox/fox-dig-stack-trace-neutral.gif\"></picture>"
+  },
+  "fox-mousing-pounce": {
+    "title": "Fox pounces on a typo",
+    "category": "fox",
+    "tags": [
+      "fox",
+      "typo",
+      "fixed",
+      "pounce",
+      "meadow",
+      "dusk",
+      "arc",
+      "spelling"
+    ],
+    "url": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/fox/fox-mousing-pounce-neutral.gif",
+    "dark": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/fox/fox-mousing-pounce-dark.gif",
+    "light": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/fox/fox-mousing-pounce-light.gif",
+    "markdown": "<picture><source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/fox/fox-mousing-pounce-dark.gif\"><source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/fox/fox-mousing-pounce-light.gif\"><img alt=\"Fox pounces on a typo\" src=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/fox/fox-mousing-pounce-neutral.gif\"></picture>"
+  },
+  "fox-sniff-code-smell": {
+    "title": "Fox sniffs a code smell",
+    "category": "fox",
+    "tags": [
+      "fox",
+      "code smell",
+      "review",
+      "nit",
+      "empty catch",
+      "sniff",
+      "right-to-left",
+      "flagged"
+    ],
+    "url": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/fox/fox-sniff-code-smell-neutral.gif",
+    "dark": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/fox/fox-sniff-code-smell-dark.gif",
+    "light": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/fox/fox-sniff-code-smell-light.gif",
+    "markdown": "<picture><source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/fox/fox-sniff-code-smell-dark.gif\"><source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/fox/fox-sniff-code-smell-light.gif\"><img alt=\"Fox sniffs a code smell\" src=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/fox/fox-sniff-code-smell-neutral.gif\"></picture>"
+  },
+  "fox-tail-sweep-lint": {
+    "title": "Fox sweeps lint warnings",
+    "category": "fox",
+    "tags": [
+      "fox",
+      "lint",
+      "warnings",
+      "cleanup",
+      "tail",
+      "autumn",
+      "diagonal",
+      "zero warnings"
+    ],
+    "url": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/fox/fox-tail-sweep-lint-neutral.gif",
+    "dark": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/fox/fox-tail-sweep-lint-dark.gif",
+    "light": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/fox/fox-tail-sweep-lint-light.gif",
+    "markdown": "<picture><source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/fox/fox-tail-sweep-lint-dark.gif\"><source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/fox/fox-tail-sweep-lint-light.gif\"><img alt=\"Fox sweeps lint warnings\" src=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/fox/fox-tail-sweep-lint-neutral.gif\"></picture>"
+  },
+  "frog-bug-snack": {
+    "title": "Frog eats the bugs",
+    "category": "frog",
+    "tags": [
+      "frog",
+      "bug",
+      "fixed",
+      "tongue",
+      "eat",
+      "pond",
+      "top-to-bottom",
+      "no bugs"
+    ],
+    "url": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/frog/frog-bug-snack-neutral.gif",
+    "dark": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/frog/frog-bug-snack-dark.gif",
+    "light": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/frog/frog-bug-snack-light.gif",
+    "markdown": "<picture><source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/frog/frog-bug-snack-dark.gif\"><source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/frog/frog-bug-snack-light.gif\"><img alt=\"Frog eats the bugs\" src=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/frog/frog-bug-snack-neutral.gif\"></picture>"
+  },
+  "frog-deploy-leap": {
+    "title": "Frog leaps to prod",
+    "category": "frog",
+    "tags": [
+      "frog",
+      "deploy",
+      "shipped",
+      "production",
+      "staging",
+      "leap",
+      "diagonal",
+      "pond"
+    ],
+    "url": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/frog/frog-deploy-leap-neutral.gif",
+    "dark": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/frog/frog-deploy-leap-dark.gif",
+    "light": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/frog/frog-deploy-leap-light.gif",
+    "markdown": "<picture><source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/frog/frog-deploy-leap-dark.gif\"><source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/frog/frog-deploy-leap-light.gif\"><img alt=\"Frog leaps to prod\" src=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/frog/frog-deploy-leap-neutral.gif\"></picture>"
+  },
+  "frog-lily-pad-merge": {
+    "title": "Frog hops to main",
+    "category": "frog",
+    "tags": [
+      "frog",
+      "merge",
+      "merged",
+      "commits",
+      "hop",
+      "pond",
+      "left-to-right",
+      "splash"
+    ],
+    "url": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/frog/frog-lily-pad-merge-neutral.gif",
+    "dark": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/frog/frog-lily-pad-merge-dark.gif",
+    "light": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/frog/frog-lily-pad-merge-light.gif",
+    "markdown": "<picture><source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/frog/frog-lily-pad-merge-dark.gif\"><source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/frog/frog-lily-pad-merge-light.gif\"><img alt=\"Frog hops to main\" src=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/frog/frog-lily-pad-merge-neutral.gif\"></picture>"
+  },
+  "frog-ping-reviewers": {
+    "title": "Frog pings reviewers",
+    "category": "frog",
+    "tags": [
+      "frog",
+      "review",
+      "reviewers",
+      "approvals",
+      "croak",
+      "ribbit",
+      "converging",
+      "approved"
+    ],
+    "url": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/frog/frog-ping-reviewers-neutral.gif",
+    "dark": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/frog/frog-ping-reviewers-dark.gif",
+    "light": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/frog/frog-ping-reviewers-light.gif",
+    "markdown": "<picture><source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/frog/frog-ping-reviewers-dark.gif\"><source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/frog/frog-ping-reviewers-light.gif\"><img alt=\"Frog pings reviewers\" src=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/frog/frog-ping-reviewers-neutral.gif\"></picture>"
+  },
+  "frog-stale-branch-cleanup": {
+    "title": "Frog prunes stale branches",
+    "category": "frog",
+    "tags": [
+      "frog",
+      "cleanup",
+      "branches",
+      "stale",
+      "prune",
+      "delete",
+      "right-to-left",
+      "tongue"
+    ],
+    "url": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/frog/frog-stale-branch-cleanup-neutral.gif",
+    "dark": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/frog/frog-stale-branch-cleanup-dark.gif",
+    "light": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/frog/frog-stale-branch-cleanup-light.gif",
+    "markdown": "<picture><source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/frog/frog-stale-branch-cleanup-dark.gif\"><source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/frog/frog-stale-branch-cleanup-light.gif\"><img alt=\"Frog prunes stale branches\" src=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/frog/frog-stale-branch-cleanup-neutral.gif\"></picture>"
+  },
+  "octopus-bubbling-checks": {
+    "title": "Bubbles tick off checks",
+    "category": "octopus",
+    "tags": [
+      "octopus",
+      "checks",
+      "ci",
+      "bubbles",
+      "passing",
+      "green",
+      "bottom-to-top",
+      "seabed"
+    ],
+    "url": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/octopus/octopus-bubbling-checks-neutral.gif",
+    "dark": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/octopus/octopus-bubbling-checks-dark.gif",
+    "light": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/octopus/octopus-bubbling-checks-light.gif",
+    "markdown": "<picture><source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/octopus/octopus-bubbling-checks-dark.gif\"><source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/octopus/octopus-bubbling-checks-light.gif\"><img alt=\"Bubbles tick off checks\" src=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/octopus/octopus-bubbling-checks-neutral.gif\"></picture>"
+  },
+  "octopus-ink-secret": {
+    "title": "Octopus inks a leaked secret",
+    "category": "octopus",
+    "tags": [
+      "octopus",
+      "secret",
+      "security",
+      "redact",
+      "api key",
+      "ink",
+      "right-to-left",
+      "fixed"
+    ],
+    "url": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/octopus/octopus-ink-secret-neutral.gif",
+    "dark": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/octopus/octopus-ink-secret-dark.gif",
+    "light": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/octopus/octopus-ink-secret-light.gif",
+    "markdown": "<picture><source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/octopus/octopus-ink-secret-dark.gif\"><source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/octopus/octopus-ink-secret-light.gif\"><img alt=\"Octopus inks a leaked secret\" src=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/octopus/octopus-ink-secret-neutral.gif\"></picture>"
+  },
+  "octopus-juggling-files": {
+    "title": "Octopus juggles changed files",
+    "category": "octopus",
+    "tags": [
+      "octopus",
+      "files",
+      "juggle",
+      "multitask",
+      "changes",
+      "orbit",
+      "seabed",
+      "wink"
+    ],
+    "url": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/octopus/octopus-juggling-files-neutral.gif",
+    "dark": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/octopus/octopus-juggling-files-dark.gif",
+    "light": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/octopus/octopus-juggling-files-light.gif",
+    "markdown": "<picture><source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/octopus/octopus-juggling-files-dark.gif\"><source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/octopus/octopus-juggling-files-light.gif\"><img alt=\"Octopus juggles changed files\" src=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/octopus/octopus-juggling-files-neutral.gif\"></picture>"
+  },
+  "octopus-merge-conflict": {
+    "title": "Octopus resolves a conflict",
+    "category": "octopus",
+    "tags": [
+      "octopus",
+      "merge",
+      "conflict",
+      "resolved",
+      "git",
+      "untangle",
+      "converging",
+      "fixed"
+    ],
+    "url": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/octopus/octopus-merge-conflict-neutral.gif",
+    "dark": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/octopus/octopus-merge-conflict-dark.gif",
+    "light": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/octopus/octopus-merge-conflict-light.gif",
+    "markdown": "<picture><source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/octopus/octopus-merge-conflict-dark.gif\"><source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/octopus/octopus-merge-conflict-light.gif\"><img alt=\"Octopus resolves a conflict\" src=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/octopus/octopus-merge-conflict-neutral.gif\"></picture>"
+  },
+  "octopus-size-limit": {
+    "title": "Octopus squeezes under the limit",
+    "category": "octopus",
+    "tags": [
+      "octopus",
+      "size",
+      "limit",
+      "dead code",
+      "trim",
+      "squeeze",
+      "left-to-right",
+      "smaller pr"
+    ],
+    "url": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/octopus/octopus-size-limit-neutral.gif",
+    "dark": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/octopus/octopus-size-limit-dark.gif",
+    "light": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/octopus/octopus-size-limit-light.gif",
+    "markdown": "<picture><source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/octopus/octopus-size-limit-dark.gif\"><source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/octopus/octopus-size-limit-light.gif\"><img alt=\"Octopus squeezes under the limit\" src=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/octopus/octopus-size-limit-neutral.gif\"></picture>"
+  },
+  "owl-console-log-swoop": {
+    "title": "Owl removes a console.log",
+    "category": "owl",
+    "tags": [
+      "owl",
+      "console.log",
+      "debug",
+      "cleanup",
+      "swoop",
+      "nest",
+      "diagonal",
+      "fixed"
+    ],
+    "url": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/owl/owl-console-log-swoop-neutral.gif",
+    "dark": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/owl/owl-console-log-swoop-dark.gif",
+    "light": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/owl/owl-console-log-swoop-light.gif",
+    "markdown": "<picture><source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/owl/owl-console-log-swoop-dark.gif\"><source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/owl/owl-console-log-swoop-light.gif\"><img alt=\"Owl removes a console.log\" src=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/owl/owl-console-log-swoop-neutral.gif\"></picture>"
+  },
+  "owl-log-watch": {
+    "title": "Owl spots an error log",
+    "category": "owl",
+    "tags": [
+      "owl",
+      "logs",
+      "error",
+      "incident",
+      "on-call",
+      "alert",
+      "bottom-to-top",
+      "night"
+    ],
+    "url": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/owl/owl-log-watch-neutral.gif",
+    "dark": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/owl/owl-log-watch-dark.gif",
+    "light": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/owl/owl-log-watch-light.gif",
+    "markdown": "<picture><source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/owl/owl-log-watch-dark.gif\"><source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/owl/owl-log-watch-light.gif\"><img alt=\"Owl spots an error log\" src=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/owl/owl-log-watch-neutral.gif\"></picture>"
+  },
+  "owl-midnight-hotfix": {
+    "title": "Owl flies a midnight hotfix",
+    "category": "owl",
+    "tags": [
+      "owl",
+      "hotfix",
+      "production",
+      "fixed",
+      "incident",
+      "night",
+      "diagonal",
+      "500"
+    ],
+    "url": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/owl/owl-midnight-hotfix-neutral.gif",
+    "dark": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/owl/owl-midnight-hotfix-dark.gif",
+    "light": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/owl/owl-midnight-hotfix-light.gif",
+    "markdown": "<picture><source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/owl/owl-midnight-hotfix-dark.gif\"><source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/owl/owl-midnight-hotfix-light.gif\"><img alt=\"Owl flies a midnight hotfix\" src=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/owl/owl-midnight-hotfix-neutral.gif\"></picture>"
+  },
+  "owl-nightly-build": {
+    "title": "Owl watches the nightly build",
+    "category": "owl",
+    "tags": [
+      "owl",
+      "nightly",
+      "build",
+      "ci",
+      "moon",
+      "night",
+      "arc",
+      "green"
+    ],
+    "url": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/owl/owl-nightly-build-neutral.gif",
+    "dark": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/owl/owl-nightly-build-dark.gif",
+    "light": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/owl/owl-nightly-build-light.gif",
+    "markdown": "<picture><source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/owl/owl-nightly-build-dark.gif\"><source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/owl/owl-nightly-build-light.gif\"><img alt=\"Owl watches the nightly build\" src=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/owl/owl-nightly-build-neutral.gif\"></picture>"
+  },
+  "owl-wise-review": {
+    "title": "Wise owl code review",
+    "category": "owl",
+    "tags": [
+      "owl",
+      "review",
+      "approved",
+      "good catch",
+      "wise",
+      "reading",
+      "top-to-bottom",
+      "lgtm"
+    ],
+    "url": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/owl/owl-wise-review-neutral.gif",
+    "dark": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/owl/owl-wise-review-dark.gif",
+    "light": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/owl/owl-wise-review-light.gif",
+    "markdown": "<picture><source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/owl/owl-wise-review-dark.gif\"><source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/owl/owl-wise-review-light.gif\"><img alt=\"Wise owl code review\" src=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/owl/owl-wise-review-neutral.gif\"></picture>"
+  },
+  "penguin-belly-slide-deploy": {
+    "title": "Penguin slides to production",
+    "category": "penguin",
+    "tags": [
+      "penguin",
+      "deploy",
+      "shipped",
+      "production",
+      "slide",
+      "snow",
+      "diagonal",
+      "fast"
+    ],
+    "url": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/penguin/penguin-belly-slide-deploy-neutral.gif",
+    "dark": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/penguin/penguin-belly-slide-deploy-dark.gif",
+    "light": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/penguin/penguin-belly-slide-deploy-light.gif",
+    "markdown": "<picture><source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/penguin/penguin-belly-slide-deploy-dark.gif\"><source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/penguin/penguin-belly-slide-deploy-light.gif\"><img alt=\"Penguin slides to production\" src=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/penguin/penguin-belly-slide-deploy-neutral.gif\"></picture>"
+  },
+  "penguin-huddle-code-freeze": {
+    "title": "Penguins huddle in code freeze",
+    "category": "penguin",
+    "tags": [
+      "penguin",
+      "code freeze",
+      "release",
+      "team",
+      "huddle",
+      "snow",
+      "converging",
+      "cold"
+    ],
+    "url": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/penguin/penguin-huddle-code-freeze-neutral.gif",
+    "dark": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/penguin/penguin-huddle-code-freeze-dark.gif",
+    "light": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/penguin/penguin-huddle-code-freeze-light.gif",
+    "markdown": "<picture><source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/penguin/penguin-huddle-code-freeze-dark.gif\"><source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/penguin/penguin-huddle-code-freeze-light.gif\"><img alt=\"Penguins huddle in code freeze\" src=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/penguin/penguin-huddle-code-freeze-neutral.gif\"></picture>"
+  },
+  "penguin-ice-hole-dive": {
+    "title": "Penguin dives for a bug",
+    "category": "penguin",
+    "tags": [
+      "penguin",
+      "bug",
+      "fixed",
+      "issue closed",
+      "dive",
+      "ice",
+      "top-to-bottom",
+      "fish"
+    ],
+    "url": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/penguin/penguin-ice-hole-dive-neutral.gif",
+    "dark": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/penguin/penguin-ice-hole-dive-dark.gif",
+    "light": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/penguin/penguin-ice-hole-dive-light.gif",
+    "markdown": "<picture><source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/penguin/penguin-ice-hole-dive-dark.gif\"><source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/penguin/penguin-ice-hole-dive-light.gif\"><img alt=\"Penguin dives for a bug\" src=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/penguin/penguin-ice-hole-dive-neutral.gif\"></picture>"
+  },
+  "penguin-merge-queue-plunge": {
+    "title": "Merge queue penguin plunge",
+    "category": "penguin",
+    "tags": [
+      "penguin",
+      "merge queue",
+      "merged",
+      "queue",
+      "dive",
+      "ice",
+      "top-to-bottom",
+      "team"
+    ],
+    "url": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/penguin/penguin-merge-queue-plunge-neutral.gif",
+    "dark": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/penguin/penguin-merge-queue-plunge-dark.gif",
+    "light": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/penguin/penguin-merge-queue-plunge-light.gif",
+    "markdown": "<picture><source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/penguin/penguin-merge-queue-plunge-dark.gif\"><source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/penguin/penguin-merge-queue-plunge-light.gif\"><img alt=\"Merge queue penguin plunge\" src=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/penguin/penguin-merge-queue-plunge-neutral.gif\"></picture>"
+  },
+  "penguin-porpoise-rebase": {
+    "title": "Penguin rebases onto main",
+    "category": "penguin",
+    "tags": [
+      "penguin",
+      "rebase",
+      "behind main",
+      "git",
+      "swim",
+      "ice",
+      "right-to-left",
+      "catch up"
+    ],
+    "url": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/penguin/penguin-porpoise-rebase-neutral.gif",
+    "dark": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/penguin/penguin-porpoise-rebase-dark.gif",
+    "light": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/penguin/penguin-porpoise-rebase-light.gif",
+    "markdown": "<picture><source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/penguin/penguin-porpoise-rebase-dark.gif\"><source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/penguin/penguin-porpoise-rebase-light.gif\"><img alt=\"Penguin rebases onto main\" src=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/penguin/penguin-porpoise-rebase-neutral.gif\"></picture>"
+  },
+  "scene-bee-garden": {
+    "title": "Bee in a flower garden",
+    "category": "scenes",
+    "tags": [
+      "scene",
+      "bee",
+      "garden",
+      "flowers",
+      "sunny",
+      "spring",
+      "summer",
+      "loop"
+    ],
+    "url": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/scenes/scene-bee-garden-neutral.gif",
+    "dark": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/scenes/scene-bee-garden-dark.gif",
+    "light": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/scenes/scene-bee-garden-light.gif",
+    "markdown": "<picture><source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/scenes/scene-bee-garden-dark.gif\"><source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/scenes/scene-bee-garden-light.gif\"><img alt=\"Bee in a flower garden\" src=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/scenes/scene-bee-garden-neutral.gif\"></picture>"
+  },
+  "scene-cat-campfire": {
+    "title": "Cat by the campfire",
+    "category": "scenes",
+    "tags": [
+      "scene",
+      "cat",
+      "campfire",
+      "fire",
+      "night",
+      "stars",
+      "cozy",
+      "loop"
+    ],
+    "url": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/scenes/scene-cat-campfire-neutral.gif",
+    "dark": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/scenes/scene-cat-campfire-dark.gif",
+    "light": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/scenes/scene-cat-campfire-light.gif",
+    "markdown": "<picture><source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/scenes/scene-cat-campfire-dark.gif\"><source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/scenes/scene-cat-campfire-light.gif\"><img alt=\"Cat by the campfire\" src=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/scenes/scene-cat-campfire-neutral.gif\"></picture>"
+  },
+  "scene-crab-sunset": {
+    "title": "Crab at sunset",
+    "category": "scenes",
+    "tags": [
+      "scene",
+      "crab",
+      "beach",
+      "sunset",
+      "waves",
+      "ocean",
+      "summer",
+      "loop"
+    ],
+    "url": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/scenes/scene-crab-sunset-neutral.gif",
+    "dark": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/scenes/scene-crab-sunset-dark.gif",
+    "light": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/scenes/scene-crab-sunset-light.gif",
+    "markdown": "<picture><source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/scenes/scene-crab-sunset-dark.gif\"><source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/scenes/scene-crab-sunset-light.gif\"><img alt=\"Crab at sunset\" src=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/scenes/scene-crab-sunset-neutral.gif\"></picture>"
+  },
+  "scene-fox-grass": {
+    "title": "Fox in a windy meadow",
+    "category": "scenes",
+    "tags": [
+      "scene",
+      "fox",
+      "grass",
+      "wind",
+      "meadow",
+      "golden hour",
+      "sunset",
+      "loop"
+    ],
+    "url": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/scenes/scene-fox-grass-neutral.gif",
+    "dark": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/scenes/scene-fox-grass-dark.gif",
+    "light": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/scenes/scene-fox-grass-light.gif",
+    "markdown": "<picture><source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/scenes/scene-fox-grass-dark.gif\"><source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/scenes/scene-fox-grass-light.gif\"><img alt=\"Fox in a windy meadow\" src=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/scenes/scene-fox-grass-neutral.gif\"></picture>"
+  },
+  "scene-frog-rain": {
+    "title": "Frog in the rain",
+    "category": "scenes",
+    "tags": [
+      "scene",
+      "frog",
+      "rain",
+      "pond",
+      "ripples",
+      "weather",
+      "calm",
+      "loop"
+    ],
+    "url": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/scenes/scene-frog-rain-neutral.gif",
+    "dark": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/scenes/scene-frog-rain-dark.gif",
+    "light": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/scenes/scene-frog-rain-light.gif",
+    "markdown": "<picture><source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/scenes/scene-frog-rain-dark.gif\"><source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/scenes/scene-frog-rain-light.gif\"><img alt=\"Frog in the rain\" src=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/scenes/scene-frog-rain-neutral.gif\"></picture>"
+  },
+  "scene-octopus-seabed": {
+    "title": "Octopus on the seabed",
+    "category": "scenes",
+    "tags": [
+      "scene",
+      "octopus",
+      "ocean",
+      "underwater",
+      "bubbles",
+      "light rays",
+      "calm",
+      "loop"
+    ],
+    "url": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/scenes/scene-octopus-seabed-neutral.gif",
+    "dark": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/scenes/scene-octopus-seabed-dark.gif",
+    "light": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/scenes/scene-octopus-seabed-light.gif",
+    "markdown": "<picture><source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/scenes/scene-octopus-seabed-dark.gif\"><source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/scenes/scene-octopus-seabed-light.gif\"><img alt=\"Octopus on the seabed\" src=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/scenes/scene-octopus-seabed-neutral.gif\"></picture>"
+  },
+  "scene-owl-stars": {
+    "title": "Owl under the stars",
+    "category": "scenes",
+    "tags": [
+      "scene",
+      "owl",
+      "night",
+      "stars",
+      "moon",
+      "shooting star",
+      "space",
+      "loop"
+    ],
+    "url": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/scenes/scene-owl-stars-neutral.gif",
+    "dark": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/scenes/scene-owl-stars-dark.gif",
+    "light": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/scenes/scene-owl-stars-light.gif",
+    "markdown": "<picture><source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/scenes/scene-owl-stars-dark.gif\"><source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/scenes/scene-owl-stars-light.gif\"><img alt=\"Owl under the stars\" src=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/scenes/scene-owl-stars-neutral.gif\"></picture>"
+  },
+  "scene-penguin-snow": {
+    "title": "Penguin in falling snow",
+    "category": "scenes",
+    "tags": [
+      "scene",
+      "penguin",
+      "snow",
+      "winter",
+      "dusk",
+      "ice",
+      "cold",
+      "loop"
+    ],
+    "url": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/scenes/scene-penguin-snow-neutral.gif",
+    "dark": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/scenes/scene-penguin-snow-dark.gif",
+    "light": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/scenes/scene-penguin-snow-light.gif",
+    "markdown": "<picture><source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/scenes/scene-penguin-snow-dark.gif\"><source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/scenes/scene-penguin-snow-light.gif\"><img alt=\"Penguin in falling snow\" src=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/scenes/scene-penguin-snow-neutral.gif\"></picture>"
+  },
+  "scene-snail-rainbow": {
+    "title": "Snail under a rainbow",
+    "category": "scenes",
+    "tags": [
+      "scene",
+      "snail",
+      "rainbow",
+      "after rain",
+      "leaf",
+      "sunbeams",
+      "fixed",
+      "loop"
+    ],
+    "url": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/scenes/scene-snail-rainbow-neutral.gif",
+    "dark": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/scenes/scene-snail-rainbow-dark.gif",
+    "light": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/scenes/scene-snail-rainbow-light.gif",
+    "markdown": "<picture><source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/scenes/scene-snail-rainbow-dark.gif\"><source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/scenes/scene-snail-rainbow-light.gif\"><img alt=\"Snail under a rainbow\" src=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/scenes/scene-snail-rainbow-neutral.gif\"></picture>"
+  },
+  "snail-flaky-test": {
+    "title": "Snail survives a flaky test",
+    "category": "snail",
+    "tags": [
+      "snail",
+      "flaky",
+      "test",
+      "rerun",
+      "retry",
+      "passing",
+      "top-to-bottom",
+      "storm"
+    ],
+    "url": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/snail/snail-flaky-test-neutral.gif",
+    "dark": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/snail/snail-flaky-test-dark.gif",
+    "light": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/snail/snail-flaky-test-light.gif",
+    "markdown": "<picture><source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/snail/snail-flaky-test-dark.gif\"><source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/snail/snail-flaky-test-light.gif\"><img alt=\"Snail survives a flaky test\" src=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/snail/snail-flaky-test-neutral.gif\"></picture>"
+  },
+  "snail-pair-review": {
+    "title": "Two snails pair review",
+    "category": "snail",
+    "tags": [
+      "snail",
+      "review",
+      "pair",
+      "lgtm",
+      "slow review",
+      "waiting",
+      "converging",
+      "love"
+    ],
+    "url": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/snail/snail-pair-review-neutral.gif",
+    "dark": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/snail/snail-pair-review-dark.gif",
+    "light": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/snail/snail-pair-review-light.gif",
+    "markdown": "<picture><source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/snail/snail-pair-review-dark.gif\"><source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/snail/snail-pair-review-light.gif\"><img alt=\"Two snails pair review\" src=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/snail/snail-pair-review-neutral.gif\"></picture>"
+  },
+  "snail-slime-progress": {
+    "title": "Snail pushes slowly",
+    "category": "snail",
+    "tags": [
+      "snail",
+      "slow",
+      "progress",
+      "push",
+      "upload",
+      "waiting",
+      "left-to-right",
+      "trail"
+    ],
+    "url": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/snail/snail-slime-progress-neutral.gif",
+    "dark": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/snail/snail-slime-progress-dark.gif",
+    "light": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/snail/snail-slime-progress-light.gif",
+    "markdown": "<picture><source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/snail/snail-slime-progress-dark.gif\"><source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/snail/snail-slime-progress-light.gif\"><img alt=\"Snail pushes slowly\" src=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/snail/snail-slime-progress-neutral.gif\"></picture>"
+  },
+  "snail-turbo-merge": {
+    "title": "Snail turbo auto-merge",
+    "category": "snail",
+    "tags": [
+      "snail",
+      "auto-merge",
+      "merged",
+      "speed",
+      "fast",
+      "sprint",
+      "right-to-left",
+      "approved"
+    ],
+    "url": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/snail/snail-turbo-merge-neutral.gif",
+    "dark": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/snail/snail-turbo-merge-dark.gif",
+    "light": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/snail/snail-turbo-merge-light.gif",
+    "markdown": "<picture><source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/snail/snail-turbo-merge-dark.gif\"><source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/snail/snail-turbo-merge-light.gif\"><img alt=\"Snail turbo auto-merge\" src=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/snail/snail-turbo-merge-neutral.gif\"></picture>"
+  },
+  "snail-wall-climb": {
+    "title": "Snail climbs the pipeline",
+    "category": "snail",
+    "tags": [
+      "snail",
+      "pipeline",
+      "ci",
+      "climb",
+      "build",
+      "deploy",
+      "bottom-to-top",
+      "green"
+    ],
+    "url": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/snail/snail-wall-climb-neutral.gif",
+    "dark": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/snail/snail-wall-climb-dark.gif",
+    "light": "https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/snail/snail-wall-climb-light.gif",
+    "markdown": "<picture><source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/snail/snail-wall-climb-dark.gif\"><source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/snail/snail-wall-climb-light.gif\"><img alt=\"Snail climbs the pipeline\" src=\"https://raw.githubusercontent.com/7331/pr-gifs/main/gifs/snail/snail-wall-climb-neutral.gif\"></picture>"
+  }
+}
